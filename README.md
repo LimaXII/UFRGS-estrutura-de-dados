@@ -3,3 +3,5 @@
 * Para realizar o teste, as duas estruturas foram submetidas a diferentes números de dados. Foi consultado o tempo de inserção e consulta para cada umas das estruturas.
 * Juntamente com o projeto, foi elaborado um relatório explicando os resultados obtidos. Foram confeccionados gráficos e tabelas para evidenciar as diferenças entre as duas estruturas escolhidas.
 * Neste repositório está disponível apenas os códigos utilizados para a obtenção dos resultados do projeto.
+
+* Cada estrutura foi analisada separadamente. Neste repositório, é possível encontrar o programa utilizado em cada estrutura na sua devida pasta.
